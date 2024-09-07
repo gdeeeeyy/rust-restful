@@ -1,0 +1,12 @@
+/mnt/c/Users/Krishna/Documents/rust-tut/target/debug/deps/libstate-f4c96639910eb0a9.rmeta: /home/gdeeee/.cargo/registry/src/index.crates.io-6f17d22bba15001f/state-0.6.0/src/lib.rs /home/gdeeee/.cargo/registry/src/index.crates.io-6f17d22bba15001f/state-0.6.0/src/ident_hash.rs /home/gdeeee/.cargo/registry/src/index.crates.io-6f17d22bba15001f/state-0.6.0/src/cell.rs /home/gdeeee/.cargo/registry/src/index.crates.io-6f17d22bba15001f/state-0.6.0/src/init.rs /home/gdeeee/.cargo/registry/src/index.crates.io-6f17d22bba15001f/state-0.6.0/src/shim.rs /home/gdeeee/.cargo/registry/src/index.crates.io-6f17d22bba15001f/state-0.6.0/src/type_map.rs
+
+/mnt/c/Users/Krishna/Documents/rust-tut/target/debug/deps/libstate-f4c96639910eb0a9.rlib: /home/gdeeee/.cargo/registry/src/index.crates.io-6f17d22bba15001f/state-0.6.0/src/lib.rs /home/gdeeee/.cargo/registry/src/index.crates.io-6f17d22bba15001f/state-0.6.0/src/ident_hash.rs /home/gdeeee/.cargo/registry/src/index.crates.io-6f17d22bba15001f/state-0.6.0/src/cell.rs /home/gdeeee/.cargo/registry/src/index.crates.io-6f17d22bba15001f/state-0.6.0/src/init.rs /home/gdeeee/.cargo/registry/src/index.crates.io-6f17d22bba15001f/state-0.6.0/src/shim.rs /home/gdeeee/.cargo/registry/src/index.crates.io-6f17d22bba15001f/state-0.6.0/src/type_map.rs
+
+/mnt/c/Users/Krishna/Documents/rust-tut/target/debug/deps/state-f4c96639910eb0a9.d: /home/gdeeee/.cargo/registry/src/index.crates.io-6f17d22bba15001f/state-0.6.0/src/lib.rs /home/gdeeee/.cargo/registry/src/index.crates.io-6f17d22bba15001f/state-0.6.0/src/ident_hash.rs /home/gdeeee/.cargo/registry/src/index.crates.io-6f17d22bba15001f/state-0.6.0/src/cell.rs /home/gdeeee/.cargo/registry/src/index.crates.io-6f17d22bba15001f/state-0.6.0/src/init.rs /home/gdeeee/.cargo/registry/src/index.crates.io-6f17d22bba15001f/state-0.6.0/src/shim.rs /home/gdeeee/.cargo/registry/src/index.crates.io-6f17d22bba15001f/state-0.6.0/src/type_map.rs
+
+/home/gdeeee/.cargo/registry/src/index.crates.io-6f17d22bba15001f/state-0.6.0/src/lib.rs:
+/home/gdeeee/.cargo/registry/src/index.crates.io-6f17d22bba15001f/state-0.6.0/src/ident_hash.rs:
+/home/gdeeee/.cargo/registry/src/index.crates.io-6f17d22bba15001f/state-0.6.0/src/cell.rs:
+/home/gdeeee/.cargo/registry/src/index.crates.io-6f17d22bba15001f/state-0.6.0/src/init.rs:
+/home/gdeeee/.cargo/registry/src/index.crates.io-6f17d22bba15001f/state-0.6.0/src/shim.rs:
+/home/gdeeee/.cargo/registry/src/index.crates.io-6f17d22bba15001f/state-0.6.0/src/type_map.rs:
